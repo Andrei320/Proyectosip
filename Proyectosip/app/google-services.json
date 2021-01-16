@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197517395943",
+    "project_id": "proyecto-sip",
+    "storage_bucket": "proyecto-sip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197517395943:android:9c821afc1a024296d29f42",
+        "android_client_info": {
+          "package_name": "com.example.proyectosip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197517395943-1k00atn93k5t9r0lgo1la49ap0046pt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaubPDtsGid6tG4krAZkDFeGsnKAfsydY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197517395943-1k00atn93k5t9r0lgo1la49ap0046pt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

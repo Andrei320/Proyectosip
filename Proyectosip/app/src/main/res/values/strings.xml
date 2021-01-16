@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyectosip</string>
+    <string name="acceder">Acceder</string>
+    <string name="registrar">Registrar</string>
+    <string name="contrasena">Contrasena</string>
+    <string name="email">Email</string>
+    <string name="imagen">Imagen</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="proveedor">Proveedor</string>
+</resources>
